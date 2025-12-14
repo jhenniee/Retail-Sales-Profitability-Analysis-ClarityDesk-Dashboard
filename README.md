@@ -190,6 +190,3 @@ Understanding which products, regions, and behaviors drive sustainable profit en
 
 * Microsoft Excel
 * Pivot Tables & Charts
-
-
-Do you want me to do that next?
